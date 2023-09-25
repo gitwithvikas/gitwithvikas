@@ -1,10 +1,12 @@
-![MasterHead](./image/github-header-image (1).png)
+![MasterHead](./image/github-header-image.png)
 
 
 <h1 align="center">Hi 👋, I'm Vikas Jadhav</h1>
 <h3 align="center">"Full-Stack Developer | Building web solutions from frontend to backend 🚀"| JavaScript, Node.js, React, Python, Django, MongoDB, MySQL and more 🌐"</h3>
 
 <div align="center" > <img src="https://source.unsplash.com/random/100*100/?code,programming" > </div>
+
+<div align="center" ><img src="https://camo.githubusercontent.com/389e55095f10b6b470e7f7a6e718a208044c61105e2dc049e172796daac24b06/68747470733a2f2f7472796e6574736f6c7574696f6e732e636f6d2f54532f736f6674776172652e676966"></img></div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitwithvikas&label=Profile%20views&color=0e75b6&style=flat" alt="gitwithvikas" /> </p>
 
